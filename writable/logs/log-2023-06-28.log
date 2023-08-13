@@ -1,0 +1,995 @@
+INFO - 2023-06-28 05:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:27:09 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Buku.php on line 47.
+ 1 APPPATH\Controllers\Buku.php(54): App\Controllers\Buku->generateQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:29:29 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Buku.php on line 47.
+ 1 APPPATH\Controllers\Buku.php(54): App\Controllers\Buku->generateQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:29:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:29:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:29:32 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\Buku.php on line 47.
+ 1 APPPATH\Controllers\Buku.php(54): App\Controllers\Buku->generateQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:29:45 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 49.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:29:46 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 49.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:31:55 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:31:59 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('4')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:32:14 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->showQrCode('5')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 05:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:58:36 --> Call to undefined method Endroid\QrCode\QrCode::setQuality()
+in APPPATH\Controllers\Buku.php on line 85.
+ 1 APPPATH\Controllers\Buku.php(94): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:59:25 --> Class "Endroid\QrCode\ErrorCorrectionLevel" not found
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(98): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 05:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 05:59:26 --> Class "Endroid\QrCode\ErrorCorrectionLevel" not found
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(98): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:00:04 --> Class "Endroid\QrCode\ErrorCorrectionLevel" not found
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(98): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:00:05 --> Class "Endroid\QrCode\ErrorCorrectionLevel" not found
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(98): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:00:40 --> Call to undefined method Endroid\QrCode\QrCode::writeDataUri()
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(95): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:00:41 --> Call to undefined method Endroid\QrCode\QrCode::writeDataUri()
+in APPPATH\Controllers\Buku.php on line 89.
+ 1 APPPATH\Controllers\Buku.php(95): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:01:07 --> Trait "App\Controllers\Endroid\QrCode\QrCode" not found
+in APPPATH\Controllers\Buku.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-06-28 06:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:01:08 --> Trait "App\Controllers\Endroid\QrCode\QrCode" not found
+in APPPATH\Controllers\Buku.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-06-28 06:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:03:20 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:03:20 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:00 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:01 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:01 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:01 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:02 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:02 --> Call to undefined method Endroid\QrCode\QrCode::getContentType()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(97): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:29 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:30 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:30 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:30 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:31 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:31 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:04:31 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:17 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:18 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:18 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:18 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:18 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:57 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:58 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:58 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:58 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:05:58 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:00 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:00 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:00 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:00 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:01 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:01 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:01 --> Call to undefined method Endroid\QrCode\QrCode::getDataUri()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:44 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:45 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:45 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:45 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:06:46 --> Call to undefined method Endroid\QrCode\QrCode::writeString()
+in APPPATH\Controllers\Buku.php on line 91.
+ 1 APPPATH\Controllers\Buku.php(100): App\Controllers\Buku->generateQrCode([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:19:50 --> Attempt to read property "id" on array
+in APPPATH\Controllers\Buku.php on line 124.
+ 1 APPPATH\Controllers\Buku.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 124)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:20:15 --> Attempt to read property "isbn" on array
+in APPPATH\Controllers\Buku.php on line 124.
+ 1 APPPATH\Controllers\Buku.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "isbn" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 124)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:20:16 --> Attempt to read property "isbn" on array
+in APPPATH\Controllers\Buku.php on line 124.
+ 1 APPPATH\Controllers\Buku.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "isbn" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 124)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:21:50 --> Attempt to read property "isbn" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "isbn" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:21:51 --> Attempt to read property "isbn" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "isbn" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:21:51 --> Attempt to read property "isbn" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "isbn" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:35 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:35 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:35 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:36 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:36 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:22:36 --> Undefined array key "isbn"
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "isbn"', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:24:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:24:48 --> Attempt to read property "id" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:24:49 --> Attempt to read property "id" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:24:49 --> Attempt to read property "id" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:24:49 --> Attempt to read property "id" on array
+in APPPATH\Controllers\Buku.php on line 127.
+ 1 APPPATH\Controllers\Buku.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 127)
+ 2 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:26:33 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:26:33 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:27:01 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:27:01 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:27:02 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:27:02 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:28:47 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:28:47 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:28:48 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:28:48 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:29:38 --> Array to string conversion
+in APPPATH\Controllers\Buku.php on line 124.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 124)
+ 2 APPPATH\Controllers\Buku.php(124): strval([...])
+ 3 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-28 06:29:39 --> Array to string conversion
+in APPPATH\Controllers\Buku.php on line 124.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\xampp\\htdocs\\CI\\app\\Controllers\\Buku.php', 124)
+ 2 APPPATH\Controllers\Buku.php(124): strval([...])
+ 3 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-06-28 06:30:20 --> mysqli_sql_exception: Illegal parameter data types varchar and row for operation '=' in D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\xampp\htdocs\CI\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\xampp\htdocs\CI\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\xampp\htdocs\CI\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\xampp\htdocs\CI\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\xampp\htdocs\CI\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\xampp\htdocs\CI\app\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+#7 D:\xampp\htdocs\CI\app\Controllers\Buku.php(124): App\Models\bukuModel->getBuku(Array)
+#8 D:\xampp\htdocs\CI\app\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode(Array)
+#9 D:\xampp\htdocs\CI\system\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesi...')
+#10 D:\xampp\htdocs\CI\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+#11 D:\xampp\htdocs\CI\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 D:\xampp\htdocs\CI\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 D:\xampp\htdocs\CI\system\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2023-06-28 06:30:20 --> Illegal parameter data types varchar and row for operation '='
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `buku`
+WHERE `slug` = (\'4\',\'ISBN 978-602-8519-93-1\',\'bhsindo_2.jpg\',\'Bahasa Indonesia\',\'bahasa-indonesia\',\'Abdi Hermawan\',\'Gramedia\',\'Mata Pelajaran\',\'2023\',\'150\',\'13\',\'Rak Nomor 1\')
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `buku`
+WHERE `slug` = :slug:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\bukuModel.php(18): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Buku.php(124): App\Models\bukuModel->getBuku([...])
+ 9 APPPATH\Controllers\Buku.php(102): App\Controllers\Buku->generateQrCode([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Buku->detail('bahasa-indonesia')
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Buku))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\CI\\public\\index.php')
+INFO - 2023-06-28 06:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 06:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-28 07:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

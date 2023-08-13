@@ -1,0 +1,235 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(/img/libraryimages.jpg);
+    background-size: cover;
+}
+
+@keyframes animate {
+
+    0%,
+    100% {
+        transform: translateY(5px);
+    }
+
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+#toolbarContainer {
+    display: none;
+}
+
+.container {
+    position: relative;
+}
+
+.alert {
+    color: #fff;
+}
+
+.alert-login {
+    color: #fff;
+}  
+
+.container::before {
+    content: '';
+    position: absolute;
+    bottom: -150px;
+    width: 100%;
+    height: 60px;
+    background: radial-gradient(rgba(0, 0, 0, 0.2), transparent, transparent);
+    border-radius: 50%;
+}
+
+.box {
+    position: relative;
+    z-index: 1;
+    top: 20px;
+    left: 30px;
+    width: 180px;
+    height: 180px;
+    backdrop-filter: blur(15px);
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    animation: animate 7s ease-in-out infinite;
+    animation-delay: -2.5s;
+}
+
+.clock {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    right: 3px;
+    bottom: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(transparent, rgba(211, 203, 203, 0.404)), url(/img/clockwhite.png);
+    background-size: cover;
+    border-radius: 50%;
+    backdrop-filter: blur(25px);
+    border: 1px solid rgba(253, 253, 253, 0.5);
+    border-bottom: none;
+    border-right: none;
+    box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.596), 10px 10px 20px rgba(0, 0, 0, 0.1), 0px 40px 50px rgba(0, 0, 0, 0.2);
+}
+
+.clock::before {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+    z-index: 10000;
+}
+
+.hour,
+.min,
+.sec {
+    position: absolute;
+}
+
+.hour,
+.hr {
+    width: 65px;
+    height: 65px;
+}
+
+.min,
+.mn {
+    width: 85px;
+    height: 85px;
+}
+
+.sec,
+.sc {
+    width: 95px;
+    height: 95px;
+}
+
+.hr,
+.mn,
+.sc {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.hr::before {
+    content: '';
+    position: absolute;
+    width: 3.5px;
+    height: 35px;
+    background: #fffb00;
+    z-index: 11;
+    border-radius: 6px;
+}
+
+.mn::before {
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 40px;
+    background: #ff0707;
+    z-index: 12;
+    border-radius: 6px;
+}
+
+.sc::before {
+    content: '';
+    position: absolute;
+    width: 1.5px;
+    height: 60px;
+    background: #030303;
+    z-index: 12;
+    border-radius: 6px;
+}
+
+.box2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    padding: 40px;
+    background: rgba(0, 0, 0, .8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+}
+
+.box2 h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #f49403;
+    text-align: center;
+}
+
+.box2 .inputBox {
+    position: relative;
+}
+
+.box2 .inputBox input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+.box2 .inputBox label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.box2 .inputBox input:focus~label,
+.box2 .inputBox input:valid~label {
+    top: -18px;
+    left: 0;
+    color: #f49403;
+    font-size: 12px;
+}
+
+.box2 button[type="submit"] {
+    background: transparent;
+    text-align: center;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #f49403;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.box2 button{
+    background: transparent;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #f49403;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+a {
+    color:#fff;
+}
+p {
+    color: #fff
+}
